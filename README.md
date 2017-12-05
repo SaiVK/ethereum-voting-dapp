@@ -1,5 +1,5 @@
 # Eth Voting Dapp
-Simples Dapp de votação para Ethereum
+Voting Daap for Ethereum
 
 Solidity
 Truffle
